@@ -6,7 +6,6 @@ console.log("Miguel Blanco");
 "Miguel"
 "Blanco Carrillo"
 
-
 // Numeros
 1000
 2.5
