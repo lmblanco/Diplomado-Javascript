@@ -29,8 +29,7 @@ false
    nombre:'Miguel',
    apellido:'Blanco',
    edad: 25,
-   profesor: false,
-   antiguedad: false
+   profesor: false
 }
 
 
