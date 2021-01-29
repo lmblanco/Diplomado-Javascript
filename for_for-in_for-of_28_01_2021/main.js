@@ -1,4 +1,4 @@
-console.time("for()");
+//console.time("for()");
 
 let lista = ["miguel","adrian","jhon","diego"];
 // for (let i = 0; i <= lista.length; i++) {
